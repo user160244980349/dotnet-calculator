@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\LexicalAnalyzerTests.exe
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\LexicalAnalyzerTests.deps.json
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\LexicalAnalyzerTests.runtimeconfig.json
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\LexicalAnalyzerTests.runtimeconfig.dev.json
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\LexicalAnalyzerTests.dll
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\LexicalAnalyzerTests.pdb
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\obj\Debug\netcoreapp3.1\LexicalAnalyzerTests.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\obj\Debug\netcoreapp3.1\LexicalAnalyzerTests.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\obj\Debug\netcoreapp3.1\LexicalAnalyzerTests.AssemblyInfo.cs
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\obj\Debug\netcoreapp3.1\LexicalAnalyzerTests.csproj.CopyComplete
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\obj\Debug\netcoreapp3.1\LexicalAnalyzerTests.dll
+C:\Users\user\source\repos\Calc\LexicalAnalyzerTests\obj\Debug\netcoreapp3.1\LexicalAnalyzerTests.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Calc\ExecutorTests\obj\Debug\netcoreapp3.1\ExecutorTests.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calc\ExecutorTests\obj\Debug\netcoreapp3.1\ExecutorTests.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calc\ExecutorTests\obj\Debug\netcoreapp3.1\ExecutorTests.AssemblyInfo.cs
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\ExecutorTests.exe
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\ExecutorTests.deps.json
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\ExecutorTests.runtimeconfig.json
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\ExecutorTests.runtimeconfig.dev.json
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\ExecutorTests.dll
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\ExecutorTests.pdb
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\user\source\repos\Calc\ExecutorTests\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\user\source\repos\Calc\ExecutorTests\obj\Debug\netcoreapp3.1\ExecutorTests.csproj.CopyComplete
+C:\Users\user\source\repos\Calc\ExecutorTests\obj\Debug\netcoreapp3.1\ExecutorTests.dll
+C:\Users\user\source\repos\Calc\ExecutorTests\obj\Debug\netcoreapp3.1\ExecutorTests.pdb
